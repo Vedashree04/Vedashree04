@@ -27,11 +27,23 @@
 
 ---
 
-### 📫 Let's Connect
+### 🤝 Let’s Connect!
 
-- [LinkedIn](https://www.linkedin.com/in/vedashree-thakare-b96553231)
-- 📧 Email: vedshreethakare@gmail.com 
-- 💬 Open to collaborations, freelancing, and cool data discussions!
+I'm always up for collaborating, discussing ideas, or just geeking out over data dashboards and insights.  
+Feel free to connect with me on any of the platforms below — let’s turn ideas into action!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/vedashree04/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:vedashree.datascience@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/Vedashree04" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub"/>
+  </a>
+</p>
+
 
 ---
 

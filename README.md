@@ -25,8 +25,6 @@ Driven by purpose, powered by visuals, and obsessed with clarity.
 
 ---
 
----
-
 ### 🌱 Currently Leveling Up In  
 - Automating reports with Power Query  
 - Storytelling with DAX in Power BI  
@@ -34,7 +32,13 @@ Driven by purpose, powered by visuals, and obsessed with clarity.
 
 ---
 
+### 💬 Let's Connect  
+Always open to talk dashboards, clean data, or career journeys.
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/vedashree-thakare-b96553231)
+📧 `vedshreethakare@gmail.com`
+
+---
 
 
 

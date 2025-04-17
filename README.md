@@ -1,7 +1,5 @@
-## Hi there 👋
-
-<!--
-**Vedashree04/Vedashree04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">✨ Vedashree Thakare ✨</h1>
+<p align="center"><i>Data Analyst | Insight Hunter | Numbers with Soul</i></p>
 
 Here are some ideas to get you started:
 

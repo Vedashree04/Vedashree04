@@ -1,46 +1,39 @@
-# 👋 Hi there, I’m Vedashree!
-🎯 I’m an aspiring Data Analyst passionate about solving business problems through data.  
-🔍 Currently focused on SQL, Power BI, and real-world case studies.  
+<h1 align="center">Hi there, I'm Vedashree 👋</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Data+Analyst+|+Power+BI+Developer+|+SQL+&center=true&width=500&height=30" />
+</p>
 
 ---
 
-### 🪞 About Me  
-A curious mind wrapped in spreadsheets, SQL scripts, and storytelling charts.  
-I transform raw data into meaningful insights with logic, curiosity, and a bit of style.  
-Driven by purpose, powered by visuals, and obsessed with clarity.
+### 👩‍💻 About Me
 
-- 📍 Based in India | Open to Remote/Hybrid Roles    
-- 🛠️ I believe in clean dashboards, clever queries & chaos-free data
-- 🧠 Currently learning automation & advanced analytics
-  
----
-
-### 🔧 Tools I Use and Love
-
-| Tool | Use Case |
-|------|----------|
-| `SQL` 💾 | Querying, cleaning, and transforming large datasets |
-| `Power BI` 📊 | Building interactive dashboards & KPI visualizations |
-| `Excel` 📈 | Data cleaning, pivot tables, formulas & analysis |
-| `Tableau` 📐 | Visual storytelling and ad-hoc reports |
+- 🎓 Data Enthusiast with a strong interest in turning raw data into meaningful insights.
+- 📊 Skilled in Power BI, SQL, Excel, and Data Visualization.
+- 💡 Passionate about problem-solving and making data-driven decisions.
+- 🌱 Currently exploring advanced DAX techniques and storytelling with data.
 
 ---
 
-### 🌱 Currently Leveling Up In  
-- Automating reports with Power Query  
-- Storytelling with DAX in Power BI  
-- Exploring ML for analytics + NLP  
+### 🛠️ Tech Stack & Tools
+
+| Power BI | SQL | Excel | DAX |
+|----------|-----|-------|-----|
+| ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black&style=flat) | ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=flat) | ![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white&style=flat) | ![DAX](https://img.shields.io/badge/-DAX-000000?logo=data&logoColor=white&style=flat) |
 
 ---
 
-### 💬 Let's Connect  
-Always open to talk dashboards, clean data, or career journeys.
+### 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/vedashree-thakare-b96553231)
-📧 `vedshreethakare@gmail.com`
+- [LinkedIn](https://www.linkedin.com/in/vedashree-thakare-b96553231)
+- 📧 Email: your.email@example.com  
+- 💬 Open to collaborations, freelancing, and cool data discussions!
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vedashree04&show_icons=true&theme=default" />
+</p>
 
 
 

@@ -29,8 +29,8 @@
 
 ### 🤝 Let’s Connect!
 
-I'm always up for collaborating, discussing ideas, or just geeking out over data dashboards and insights.  
-Feel free to connect with me on any of the platforms below — let’s turn ideas into action!
+Open to collaborations, freelancing, and cool data discussions!  
+Feel free to connect with me — let’s turn ideas into action and insights into impact.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vedashree04/" target="_blank">
@@ -43,7 +43,6 @@ Feel free to connect with me on any of the platforms below — let’s turn idea
     <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub"/>
   </a>
 </p>
-
 
 ---
 

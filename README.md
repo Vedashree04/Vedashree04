@@ -26,7 +26,7 @@
 ### 📫 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/vedashree-thakare-b96553231)
-- 📧 Email: your.email@example.com  
+- 📧 Email: vedshreethakare@gmail.com 
 - 💬 Open to collaborations, freelancing, and cool data discussions!
 
 ---

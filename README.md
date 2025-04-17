@@ -1,4 +1,4 @@
-### 👋 Hi, I’m Vedashree!
+## 👋 Hi, I’m Vedashree!
 🎯 I’m an aspiring Data Analyst passionate about solving business problems through data.  
 🔍 Currently focused on SQL, Power BI, and real-world case studies.  
 
